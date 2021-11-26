@@ -18,7 +18,9 @@ app.get('/', (req, res)=>{
 
 app.use(require("./routes/index"));
 app.use(require("./routes/movies"));
-
+app.use(require("./routes/personas"));
+app.use(require("./routes/clientes"));
+app.use(require("./routes/productos"));
 
 // starting the Server
 

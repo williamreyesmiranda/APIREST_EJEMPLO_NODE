@@ -1,0 +1,27 @@
+[
+    {
+        "referencia": "abc123",
+        "descripcion": "Portatil Lenovo 14pul",
+        "precio": 100
+    },
+    {
+        "referencia": "abc234",
+        "descripcion": "Xbox 360",
+        "precio": 200
+    },
+    {
+        "referencia": "abc345",
+        "descripcion": "Nintendo wii",
+        "precio": 300
+    },
+    {
+        "referencia": "abc456",
+        "descripcion": "huawei p40 pro",
+        "precio": 400
+    },
+    {
+        "referencia": "abc567",
+        "descripcion": "Computador torre",
+        "precio": 500
+    }
+]
